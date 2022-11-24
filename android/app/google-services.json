@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "830215230057",
+    "project_id": "flutterbookinghaircut",
+    "storage_bucket": "flutterbookinghaircut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830215230057:android:9880f3f30835cf2658c8f8",
+        "android_client_info": {
+          "package_name": "com.example.booking_haircut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830215230057-5atpcs5g6v355n08jgd9ubjv5jdoub45.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.booking_haircut",
+            "certificate_hash": "cf9f00b8c0c89e50b622d319d019244e222db098"
+          }
+        },
+        {
+          "client_id": "830215230057-77m99um39i11jme39jl6b3apjfnbvqlb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.booking_haircut",
+            "certificate_hash": "95300378a2aaf7c1f57844c0fffed25a57c58571"
+          }
+        },
+        {
+          "client_id": "830215230057-t5icpm34jcroffr5ae3e4jpcr4i5pvov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQEt0o3e16zqh_TDc1L1aiDpAmUbN_82s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830215230057-t5icpm34jcroffr5ae3e4jpcr4i5pvov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830215230057:android:b18cb6c242dcfb3f58c8f8",
+        "android_client_info": {
+          "package_name": "com.example.flutter_booking_haircut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830215230057-frm08pq8u41qlpuvpq396tcvh336h4tt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_booking_haircut",
+            "certificate_hash": "cf9f00b8c0c89e50b622d319d019244e222db098"
+          }
+        },
+        {
+          "client_id": "830215230057-t5icpm34jcroffr5ae3e4jpcr4i5pvov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQEt0o3e16zqh_TDc1L1aiDpAmUbN_82s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830215230057-t5icpm34jcroffr5ae3e4jpcr4i5pvov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
